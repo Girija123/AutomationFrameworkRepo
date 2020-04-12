@@ -9,36 +9,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1315584852">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="feature" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Cucumber" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="feature" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Cucumber" value="13" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
@@ -58,8 +28,8 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../Desktop/final/test" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Desktop/testupdated (1)/test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../final/test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../testupdated (1)/test" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../cukes_template/skeleton_project" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../javadataclass-master" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../test" value="PREVIEW" />
@@ -82,12 +52,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="858" />
-    <option name="height" value="1020" />
-  </component>
+  <component name="ProjectId" id="1aRQAPAw6osMrITgFubT48gxZIy" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
